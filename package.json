@@ -1,0 +1,11 @@
+{
+  "name": "Learning",
+  "version": "1.0.0",
+  "dependencies": {
+    "tsc": "^2.0.3",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/faker": "^5.5.9"
+  }
+}
