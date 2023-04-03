@@ -22,19 +22,19 @@ public class Main {
 //        thread1.start();
 
         //Третий вариант без создания отдельного класса
-        Thread thread = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                for (int i = 0; i < 1000; i++) {
-                    System.out.println("i = " + i);
-                }
-            }
-        });
-        thread.start();
-
-        for (int i = 0; i < 1000; i++) {
-            System.out.println("j = " + i);
-        }
+//        Thread thread = new Thread(new Runnable() {
+//            @Override
+//            public void run() {
+//                for (int i = 0; i < 1000; i++) {
+//                    System.out.println("i = " + i);
+//                }
+//            }
+//        });
+//        thread.start();
+//
+//        for (int i = 0; i < 1000; i++) {
+//            System.out.println("j = " + i);
+//        }
 
 // ================================ АТОМАРНОСТЬ ==================================================
 //        Thread thread1 = new Thread() {
@@ -67,5 +67,21 @@ public class Main {
         //counter++ - это две операции: int c = counter + 1; counter = c;
         //Во время выполнения инкремента другой поток может попытаться увеличить значение переменной.
         //Из-за этого вместо увеличения на 2 произойдёт увеличение только на 1
+
+        Runnable task = new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 0; i < 100; i++) {
+                    System.out.println(i);
+                    try {
+                        Thread.sleep(1000);             //Задержка в одну секунду
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+                }
+            }
+        };
+        Thread thread = new Thread(task);
+        thread.start();
     }
 }

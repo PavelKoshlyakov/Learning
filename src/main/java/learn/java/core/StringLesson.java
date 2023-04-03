@@ -13,7 +13,7 @@ public class StringLesson {
 //============================================= МЕТОДЫ СТРОК ===========================================================
         //Получение символа из строки по указанному номеру
 //        String str = "Какая то строка";
-//        System.out.println(str.charAt(0));            //Получение символа строки, хранящимся под индекосом 0
+//        System.out.println(str.charAt(0));            //Получение символа строки, хранящимся под индексом 0
 //        char ch = str.charAt(3);                     //charAt(..) возвращает тип char
 //        System.out.println(ch);
 //        System.out.println(str.charAt(100));        //ОШИБКА! Нет символа с указанным номером
@@ -42,10 +42,11 @@ public class StringLesson {
 //        System.out.println(str2.contains(str1));
 
         //Если в str2 есть подстрока str1
+//        String str1 = "aa";
+//        String str2 = "Kawabangaaa";
 //        if (str2.contains(str1)){
 //            System.out.println("Совпадение есть");
 //        }
-
         //Получение подстроки из строки
 //        String str = "Какая то строка";
 //        System.out.println(str.substring(6));      //Получение подстроки, начиная с 6 элемента и до конца

@@ -28,13 +28,22 @@ public class Main {
                         new Devs("Пётр", 100000, "Java")
                 )
         );
+
 //        workers = devs;     //Свойство инвариантности
 //        devs = workers;     //Ошибка - нарушение типобезопасности
 
         //Выход из ситуации с инвариантностью:
-        workers.addAll(devs);
-        double average = getAverageSalary(workers);
-        System.out.println(average);
+//        workers.addAll(devs);
+//        double average = getAverageSalary(workers);
+//        System.out.println(average);
+
+        //Если выполнить следующую команду, то в список программистов мы попытаемся добавить сварщика.
+        //Это нарушение типобезопасности. Именно поэтому, существует понятие инвариантности.
+        //Инвариантность запретит передать список разработчиков, потому что ожидается список Worker'ов
+//        addToList(devs, new Welder("Работничек", 1));
+
+
+//        addToList(workers, new Welder("Работничек", 1));
     }
 
     public static double getAverageSalary(ArrayList<Worker> workers){
@@ -44,4 +53,9 @@ public class Main {
         }
         return sum / workers.size();
     }
+
+    public static void addToList(ArrayList<Worker> workers, Worker worker){
+        workers.add(worker);
+    }
+
 }

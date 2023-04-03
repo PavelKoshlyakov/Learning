@@ -12,11 +12,12 @@ public class Main {
 //=============================================== КОВАРИАТИВНОСТЬ ======================================================
         // Ковариантность — это сохранение иерархии наследования исходных типов в производных типах в том же порядке.
         // Например, если Кошка — это подтип Животные, то Множество<Кошки> — это подтип Множество<Животные>.
+        // Например, если программист - это работник, то Множество<Программист> - это подтип множества <Работник>
 
         ArrayList<Worker> workers = new ArrayList<>(
                 List.of(
-                    new Welder("Иван", 1),
-                    new Devs("Пётр", 100_000, "Java")
+                        new Welder("Иван", 1),
+                        new Devs("Пётр", 100_000, "Java")
                 )
         );
         ArrayList<Devs> devs = new ArrayList<>(
@@ -26,22 +27,36 @@ public class Main {
                 )
         );
 //        System.out.println(getAverageSalary(workers));
-        System.out.println(getAverageSalary(devs));
+//        System.out.println(getAverageSalary(devs));
+
+//        printFirst(workers);
 
 //        addDev(devs, new Welder("Петрович", 2));
     }
 
-    /**<? extends Worker> - Wildcard*/
-    public static double getAverageSalary(ArrayList<? extends Worker> workers){
+    //<? extends Worker> - называется Wildcard
+    //<? extends Worker> - означает, что в метод может быть передан как список Worker, так и список наследников Worker
+    public static double getAverageSalary(ArrayList<? extends Worker> workers) {
         double sum = 0;
-//        Devs devs = (Devs) workers.get(0);    //Чтение из списка возможно
         for (Worker worker : workers) {
             sum += worker.getSalary();
         }
         return sum / workers.size();
     }
 
+    public static void printFirst(ArrayList<? extends Worker> workers) {
+        //Чтение из списка возможно. Объект, который достаётся из списка, считается типом Worker.
+        //Это не безопасно, потому что объект может оказаться Welder'ом, а мы пытаемся его превратить в Devs
+        Devs devs = (Devs) workers.get(0);
+        System.out.println(devs);
+
+        //Можно делать так, если очень нужен именно разработчик
+//        if (workers.get(0) instanceof Devs){
+//            Devs dev = (Devs) workers.get(0);
+//        }
+    }
 //    public static void addDev(ArrayList<? extends Worker> workers, Worker worker){
 //        workers.add(worker);       //Запись невозможна, так как можно нарушить типобезопасность
 //    }
+
 }

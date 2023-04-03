@@ -7,7 +7,7 @@ public class ifLesson {
         Scanner in = new Scanner(System.in);
 
 //==================================================== ОПЕРАЦИИ СРАВНЕНИЯ =============================================================
-//        System.out.println("Введите число:");
+        System.out.println("Введите число:");
 //        int input = in.nextInt();
 //
 //        System.out.println(input < 0);      //Меньше
@@ -17,6 +17,10 @@ public class ifLesson {
 //        System.out.println(input == 60);    //Равно
 //        System.out.println(input != 10);    //Не равно
 
+//        int input = in.nextInt();
+//        boolean isCorrect = input < 20;
+//        System.out.println(isCorrect);
+
 //==================================================== ЛОГИЧЕСКИЕ ОПЕРАНДЫ =============================================================
         //Логическое ИЛИ (Конъюнкция)
         //Логическое ИЛИ верно в том случае, если с одной из сторон есть true
@@ -24,18 +28,23 @@ public class ifLesson {
 //        System.out.println(false || true);  //true
 //        System.out.println(true || false);  //true
 //        System.out.println(true || true);   //true
-//        System.out.println(true || false || false);
+//        System.out.println(true || false || false); // -> true || false -> true
 
         //Логическое И (Дизъюнкция)
 //        System.out.println(false && false); //false
 //        System.out.println(false && true);  //false
 //        System.out.println(true && false);  //false
 //        System.out.println(true && true);   //true
-//        System.out.println(true && true && false);
+//        System.out.println(true && true && false); // true && false -> false
 
         // ! - инверсия (отрицание). Переворачивает значение
 //        System.out.println(!true);      //false
 //        System.out.println(!false);     //true
+//        boolean b = !true;
+
+//        int first = in.nextInt();
+//        boolean r = !(first > 50);
+//        System.out.println(r);
 
 //============================================== СОСТАВНЫЕ ЛОГИЧЕСКИЕ КОНСТРУКЦИИ =============================================================
 //        int a = 10;
@@ -46,9 +55,9 @@ public class ifLesson {
         //2) a !=b && a < 50 || true || b < 10 + a
         //3) a !=b && a < 50 || true || b < 20
         //4) a !=b && true || true || true
-        //true && true || true || true
-        //true || true || true
-        //true
+        //5) true && true || true || true
+        //6) true || true || true
+        //7) true
 
 //        int a = 10;
 //        int b = 15;
@@ -68,20 +77,21 @@ public class ifLesson {
 //        int a = 10;
 //        int b = a + 50;
 //
-//        if (a < b){
+//        if (a < b){                     //Если a < b
 //            System.out.println("Первое число меньше второго");
-//        } else {
+//        } else {                        //Иначе
 //            System.out.println("Первое число не меньше второго");
 //        }
 
 
 //        if(){}else if(){}
 //        int num = 50;
-//        if (num < 200){
+//        if (num < 200){                 //Если num < 200
 //            System.out.println("Число от 100 до 200");
-//        } else if (num < 100){
+//        } else if (num < 100){          //Иначе если num < 100
 //            System.out.println("Число");
 //        }
+//
 //        int a = 10;
 //        if (a != 10) {
 //            System.out.println("Число не равно 10");

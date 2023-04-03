@@ -15,15 +15,14 @@ public class CollectionLesson {
 //        ArrayList<Double> list = new ArrayList<>();
 //        ArrayList<String> list = new ArrayList<>();
 
-//        LinkedList<String> listString = new LinkedList<>();
-//        LinkedList<Integer> listString = new LinkedList<>();
-//        LinkedList<Double> listString = new LinkedList<>();
-
 //        List<Integer> listDouble = new ArrayList<>();
 
         //Инициализация списка
 //        ArrayList<Integer> list = new ArrayList<>(List.of(10, 20, -5, -44, 66, 7));
 
+        //Инициализация нового списка с использованием значений друго списка
+//        ArrayList<Integer> list = new ArrayList<>(List.of(10, 20, -5, -44, 66, 7));
+//        ArrayList<Integer> newList = new ArrayList<>(list);                             //Указывается список list, из которого будут взяты значения
 // --------------------------------- МЕТОДЫ ARRAYLIST ----------------------------------------------
         //Добавление элементов
 //        ArrayList<Integer> list = new ArrayList<>();
@@ -60,7 +59,7 @@ public class CollectionLesson {
 //        System.out.println(list.lastIndexOf(10));    // Номер последнего совпадения
 
 
-        //Проверка,содержится ли элемент в списке
+        //Проверка, содержится ли элемент в списке
 //        ArrayList<Integer> list = new ArrayList<>(List.of(10, 20, -5, -44, 66, 7));
 //        System.out.println(list.contains(10));      //true - если указанный элемент есть в списке
 //        System.out.println(list.contains(6895));    //false - если указанного элемента нет в списке
@@ -68,11 +67,13 @@ public class CollectionLesson {
         //Удаление из списка
         // remove(int)
         //remove(<Тип листа>)
-//        ArrayList<> list = new ArrayList<>(List.of(10, 20, -5, -44, 66, 7, 10));
+//        ArrayList<Integer> list = new ArrayList<>(List.of(10, 20, -5, -44, 66, 7, 10));
 //        list.remove(2);         //Удаление по индексу
 //        System.out.println(list);
 //        list.remove((Integer) 10);      //Удаление по значению (первое попавшееся значение)
 //        System.out.println(list);
+//        list.remove(10);              //ТАК НЕЛЬЗЯ! НЕТ ТАКОГО НОМЕРА ЭЛЕМЕНТА
+
 //        ArrayList<String> listString = new ArrayList<>(List.of("hello", "world", "!"));
 //        listString.remove(2);
 //        listString.remove("world");
@@ -89,10 +90,10 @@ public class CollectionLesson {
 //
 //        ArrayList<String> secondStringList = new ArrayList<>();
 //        secondStringList.add("Hello");
-//        secondStringList.add("world");
-
+//        secondStringList.add("World");
+//
 //        ArrayList<Integer> thirdList = new ArrayList<>(List.of(10, 20, -5, -44, 66, 7, 10));
-
+//
 //        if (stringList.equals(secondStringList)){
 //            System.out.println("Листы равны");
 //        } else {
@@ -106,18 +107,23 @@ public class CollectionLesson {
 
         //Копирование списков
 //        ArrayList<Integer> list = new ArrayList<>(List.of(10, 20, -5, -44, 66, 7, 10));
-////        ArrayList<Integer> newList = list;
-//        ArrayList<Integer> newList = (ArrayList<Integer>) list.clone();
-//        newList.add(5555);                  //Меняем копию
-//        System.out.println("Оригинал: " + list);           //Вывод оригинального списка
-//        System.out.println("Копия: " + newList);        //Вывод копии
+////        ArrayList<Integer> newList = list;                                //в newList помещается ссылка на list
+////        ArrayList<Integer> newList = (ArrayList<Integer>) list.clone();   //1й вариант копирования
+//        ArrayList<Integer> newList = new ArrayList<>(list);                 //2й вариант копирования
+//        newList.add(5555);                      //Меняем копию
+//        System.out.println("Оригинал: " + list);            //Вывод оригинального списка
+//        System.out.println("Копия: " + newList);            //Вывод копии
 
 
         //Коллекция в строку
 //        ArrayList<String> strings = new ArrayList<>(List.of("Hello", "World"));
+//        String s = String.join(" ", strings);
+//        System.out.println(s);
+
 //        String[] strings = {"Hello", "World"};
 //        String s = String.join(" ", strings);
 //        System.out.println(s);
+
 //============================================= LINKED LIST ============================================================
         //Создание двусвязного списка
 //        LinkedList<Integer> linkedList = new LinkedList<>();
@@ -315,7 +321,7 @@ public class CollectionLesson {
 //        System.out.println(integerTreeSet.floor(9));
 //        System.out.println(integerTreeSet.ceiling(9));
 
-        TreeSet<Integer> integerTreeSet = new TreeSet<>(List.of(10, 50, 33, 40, -8, 66));
+//        TreeSet<Integer> integerTreeSet = new TreeSet<>(List.of(10, 50, 33, 40, -8, 66));
 
 //======================================================== HASHMAP =========================================================================
         //Хэш-таблица - ассоциативный массив (Ключ : значение).

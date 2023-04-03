@@ -8,10 +8,11 @@ public class Main {
         Workplace<Devs> devsWorkplace = new Workplace<>();
         devsWorkplace.add(new Devs("Семён", "Java"));
         devsWorkplace.add(new Devs("Иван", "Python"));
+//        devsWorkplace.add(new Welder("Илья", 1));                 //Так не получится, типы не совпадают
 //        devsWorkplace.printInfo();
 
 //        Workplace<Worker> workplaceWorker = new Workplace<>();
-//        Workplace<Welder> weldersWorkplace = new Workplace<>();
+        Workplace<Welder> weldersWorkplace = new Workplace<>();
 
 //================================================ ИНВАРИАНТНОСТЬ ======================================================
         //В Java обобщённые классы являются инвариантными.
