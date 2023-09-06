@@ -1,5 +1,7 @@
 package learn.java.threads;
 
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
@@ -68,20 +70,22 @@ public class Main {
         //Во время выполнения инкремента другой поток может попытаться увеличить значение переменной.
         //Из-за этого вместо увеличения на 2 произойдёт увеличение только на 1
 
-        Runnable task = new Runnable() {
-            @Override
-            public void run() {
-                for (int i = 0; i < 100; i++) {
-                    System.out.println(i);
-                    try {
-                        Thread.sleep(1000);             //Задержка в одну секунду
-                    } catch (InterruptedException e) {
-                        throw new RuntimeException(e);
-                    }
-                }
-            }
-        };
-        Thread thread = new Thread(task);
-        thread.start();
+//        Runnable task = new Runnable() {
+//            @Override
+//            public void run() {
+//                for (int i = 0; i < 100; i++) {
+//                    System.out.println(i);
+//                    try {
+//                        Thread.sleep(1000);             //Задержка в одну секунду
+//                    } catch (InterruptedException e) {
+//                        throw new RuntimeException(e);
+//                    }
+//                }
+//            }
+//        };
+//        Thread thread = new Thread(task);
+//        thread.start();
+
+        CopyOnWriteArrayList<Integer> list = new CopyOnWriteArrayList<>();
     }
 }

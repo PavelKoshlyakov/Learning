@@ -4,142 +4,172 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29b3d897-b868-482b-850c-087e46ab952d" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Chest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Diamonds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Gold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Island.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Treasure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/TreasureMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/items/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/items/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/items/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/Cage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/animals/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/animals/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Walkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/fabric/Confectionery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/fabric/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/fabric/PastryType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/fabric/entity/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/fabric/entity/Candie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/fabric/entity/Pastry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/fabric/entity/Sweet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/builder/calculationVariants/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/builder/calculationVariants/FundamentCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/builder/calculationVariants/RoofCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/hospital/DiseaseStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/hospital/HealthyStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/hospital/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/hospital/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/patterns/strategy/hospital/SickStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Island.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Side.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Caterpillar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Grass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Herbivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Kind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/cash/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/firstVariant/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/lesson.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/secondVariant/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/thirdVariant/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/locks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/pullThreads/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/pullThreads/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/pullThreads/PullThreads.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Threads_life_cycle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="29b3d897-b868-482b-850c-087e46ab952d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/ArrayLesson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/Collections/ArrayListLesson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/Collections/HashMapLesson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/Collections/SetLesson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/StringBuilderLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/StringBuilderLesson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/StringLesson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/BigAnimalContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/PetCarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/interfaces/Container/AliveContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/interfaces/Container/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/interfaces/Container/ItemContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/interfaces/Sizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/interfaces/Transportable/AliveTransportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/interfaces/Transportable/ItemTransportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/interfaces/port/interfaces/Transportable/Transportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t7_exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t7_exceptions/exceptions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t8_files/io/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t8_files/io/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t8_files/nio/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t9_functionalInterfaces/FunctionalInterface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t9_functionalInterfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/collections/synchronizedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/collections/synchronizedList_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/collections/without_synchronizedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t3_works/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t4_synchronization/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t4_synchronization/Problems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t5_deadlock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t6_notify_wait/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t7_locks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/review/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Exception_structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Time_synchronized_vs_concurrency.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/ArrayLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/core/ArrayLesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/CollectionLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/core/CollectionLesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/LoopLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/core/LoopLesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/StringLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/core/StringLesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/VariablesLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/core/VariablesLesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/ifLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/core/ifLesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/dealers/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/dealers/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/dealers/Dealers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/learning/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/learning/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/microwave/Heating.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/microwave/Inactive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/microwave/Microwave.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/microwave/Open.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/microwave/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/mobile/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/mobile/LandlineTelephone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/mobile/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/mobile/MobilePhone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/mobile/Telephone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/music/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/music/RapMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/music/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/organization/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/organization/HumanAction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/organization/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/organization/Worker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/telephones/CellularPhone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/telephones/MobilePhone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/telephones/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/telephones/Practicum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/telephones/Smartphone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/zoo/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/zoo/MainZoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/zoo/Zoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/HomeAnimalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/HomeAnimalInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Ship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/SwimmableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/SwimmableInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/interfaces/lambda/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/lambda/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Devs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Devs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Welder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Welder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Workplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Workplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/contrvar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/contrvar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/covar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/covar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/invar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/invar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/MyPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/start/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/start/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/start/MainButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/start/MainButton2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/start/MainButton3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphics/start/MainButton4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/ArrayLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/ArrayLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/CollectionLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/Collections/CollectionLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/FunctionLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/FunctionLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/LoopLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/LoopLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/RecursionLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/RecursionLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/Regexes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/Regexes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/StringLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/StringLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/VariablesLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/VariablesLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/core/ifLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t1_core/ifLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/Main_OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/Main_OOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Chest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_chest/Chest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Diamonds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_chest/Diamonds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Gold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_chest/Gold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Island.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_chest/Island.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_chest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/Treasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_chest/Treasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_chest/TreasureMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_chest/TreasureMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_container/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_container/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_container/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/items/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_container/items/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/items/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_container/items/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_container/items/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_container/items/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/Cage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_zoo/Cage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_zoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_zoo/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/animals/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_zoo/animals/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/generics_zoo/animals/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/generics_zoo/animals/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/incapsulation_authorization/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/incapsulation_authorization/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/incapsulation_authorization/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/incapsulation_authorization/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/incapsulation_authorization/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/incapsulation_authorization/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/incapsulation_authorization/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/oop_base_shop/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/oop_base_shop/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/oop_base_shop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/examples/oop_base_shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/examples/oop_base_shop/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/equals/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/equals/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/equals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/equals/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/iterable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/iterable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/iterable/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/iterable/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/iterable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/iterable/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/streams/ComparableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/streams/ComparableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/streams/CompareInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/streams/CompareInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/streams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t1_base/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t1_base/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t1_base/VolleyballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t1_base/VolleyballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t1_base/dancer/Dancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t1_base/dancer/Dancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t1_base/dancer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t1_base/dancer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t1_static/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t1_static/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t1_static/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t1_static/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_enums/CarRepairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_enums/CarRepairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_enums/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_enums/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_enums/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_enums/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_enums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_enums/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_enums/cars/Brands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_enums/cars/Brands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_enums/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_enums/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_enums/cars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_enums/cars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_incapsulation/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_incapsulation/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_incapsulation/HumanSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_incapsulation/HumanSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_incapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_incapsulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t2_incapsulation/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t2_incapsulation/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/HomeAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/HomeAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/origin/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/origin/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/origin/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/origin/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/relationship/aggregation/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/relationship/aggregation/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/relationship/aggregation/Jacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/relationship/aggregation/Jacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t3_inheritance/relationship/composition/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t3_inheritance/relationship/composition/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t4_polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t4_polymorphism/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t4_polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t4_polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t4_polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t4_polymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t4_polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t4_polymorphism/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Devs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/Devs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Welder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/Welder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/Workplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/Workplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/contrvar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/contrvar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/contrvar/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/contrvar/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/covar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/covar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t5_Generics/invar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t6_Generics/invar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/HomeAnimalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/HomeAnimalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/SwimmableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/SwimmableInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/Walkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/Walkable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/oop/lessons/t6_interfaces/lambda/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/t2_oop/lessons/t5_interfaces/lambda/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/SomeThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/SomeThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/review/CountedThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/review/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/review/MultiThreading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/collections/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Island.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/Side.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Bear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Caterpillar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Grass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Herbivore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Horse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Kind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/example/islandAnimals/animals/Wolf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/cash/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t2_cash/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/firstVariant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t1_creation/firstVariant/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/lesson.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t1_creation/lesson.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/secondVariant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t1_creation/secondVariant/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learn/java/threads/lesson/thirdVariant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/learn/java/threads/t1_creation/thirdVariant/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,9 +182,9 @@
         <option value="TypeScript File" />
         <option value="package.json" />
         <option value="HTML File" />
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -178,34 +208,34 @@
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pavel/IdeaProjects/Learning/src/main/resources/images/Threads_life_cycle.png&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pavel/IdeaProjects/Learning/src/main/resources/images/Exception_structure.png&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;8af0f5c3edad8d8e158ff27b9f03afac&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\resources" />
       <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\resources\images" />
+      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\learn\java\threads\collections\synchronizedList" />
+      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\learn\java\threads\collections" />
+      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\resources" />
       <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\review" />
-      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\com\company\oop\Reverse" />
-      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\com\company\oop\polymorphism" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\learn\java\t1_core\Collections" />
+      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\learn\java\t2_oop\lessons\t8_files\nio" />
       <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\resources\images" />
       <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\learn\java\threads\lesson" />
       <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\review" />
-      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\review\pack2" />
-      <recent name="C:\Users\Pavel\IdeaProjects\Learning\src\main\java\com\company\oop\scanner" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -218,13 +248,13 @@
       <recent name="learn.java.oop.lessons.t5_Generics.invar" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.learn.java.threads.example.islandAnimals.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn.java.threads.lesson.cash.Main" />
+  <component name="RunManager" selected="Application.ArrayLesson">
+    <configuration name="ArrayLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.java.t1_core.ArrayLesson" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.java.threads.lesson.cash.*" />
+          <option name="PATTERN" value="learn.java.t1_core.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn.java.core.ifLesson" />
+    <configuration name="CollectionLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.java.t1_core.Collections.CollectionLesson" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.java.core.*" />
+          <option name="PATTERN" value="learn.java.t1_core.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learn.java.threads.example.islandAnimals.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn.java.threads.example.islandAnimals.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review.Main" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.java.threads.example.islandAnimals.animals.*" />
+          <option name="PATTERN" value="review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learn.java.threads.lesson.firstVariant.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn.java.threads.lesson.firstVariant.Main" />
+    <configuration name="VariablesLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.java.t1_core.VariablesLesson" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.java.threads.lesson.firstVariant.*" />
+          <option name="PATTERN" value="learn.java.t1_core.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learn.java.threads.lesson.thirdVariant.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn.java.threads.lesson.thirdVariant.Main" />
+    <configuration name="learn.java.t2_oop.lessons.t8_files.nio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.java.t2_oop.lessons.t8_files.nio.Main" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.java.threads.lesson.thirdVariant.*" />
+          <option name="PATTERN" value="learn.java.t2_oop.lessons.t8_files.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +315,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.learn.java.threads.lesson.firstVariant.Main" />
-      <item itemvalue="Application.learn.java.threads.lesson.thirdVariant.Main" />
-      <item itemvalue="Application.ifLesson" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.learn.java.threads.example.islandAnimals.Main" />
+      <item itemvalue="Application.ArrayLesson" />
+      <item itemvalue="Application.VariablesLesson" />
+      <item itemvalue="Application.learn.java.t2_oop.lessons.t8_files.nio.Main" />
+      <item itemvalue="Application.CollectionLesson" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.learn.java.threads.example.islandAnimals.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.learn.java.threads.lesson.thirdVariant.Main" />
-        <item itemvalue="Application.learn.java.threads.lesson.firstVariant.Main" />
-        <item itemvalue="Application.ifLesson" />
+        <item itemvalue="Application.ArrayLesson" />
+        <item itemvalue="Application.CollectionLesson" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.VariablesLesson" />
+        <item itemvalue="Application.learn.java.t2_oop.lessons.t8_files.nio.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -886,6 +916,139 @@
       <workItem from="1680443364656" duration="13321000" />
       <workItem from="1680473997432" duration="599000" />
       <workItem from="1680503480640" duration="9000" />
+      <workItem from="1680543529432" duration="763000" />
+      <workItem from="1680548776925" duration="2922000" />
+      <workItem from="1680601072549" duration="7561000" />
+      <workItem from="1680628702107" duration="3356000" />
+      <workItem from="1680672712168" duration="4586000" />
+      <workItem from="1680797250967" duration="1232000" />
+      <workItem from="1680856184517" duration="1287000" />
+      <workItem from="1680872035036" duration="6723000" />
+      <workItem from="1681017127028" duration="8678000" />
+      <workItem from="1681106152450" duration="12664000" />
+      <workItem from="1681229384188" duration="600000" />
+      <workItem from="1681310124937" duration="1083000" />
+      <workItem from="1681312902313" duration="900000" />
+      <workItem from="1681369982462" duration="244000" />
+      <workItem from="1681370232044" duration="5997000" />
+      <workItem from="1681455909825" duration="767000" />
+      <workItem from="1681473042957" duration="2636000" />
+      <workItem from="1681623805509" duration="2000000" />
+      <workItem from="1681678913852" duration="599000" />
+      <workItem from="1681717049808" duration="4014000" />
+      <workItem from="1681804437095" duration="2147000" />
+      <workItem from="1681835381164" duration="4792000" />
+      <workItem from="1681969416463" duration="12000" />
+      <workItem from="1681987104102" duration="859000" />
+      <workItem from="1682311790014" duration="6431000" />
+      <workItem from="1682357168782" duration="3697000" />
+      <workItem from="1682403416864" duration="11588000" />
+      <workItem from="1682488591067" duration="2221000" />
+      <workItem from="1682542478375" duration="3456000" />
+      <workItem from="1682575558857" duration="2466000" />
+      <workItem from="1682611894650" duration="1841000" />
+      <workItem from="1682670852764" duration="609000" />
+      <workItem from="1682801081299" duration="710000" />
+      <workItem from="1682862694398" duration="12000" />
+      <workItem from="1682866999037" duration="6178000" />
+      <workItem from="1683011092529" duration="20294000" />
+      <workItem from="1683130243081" duration="1239000" />
+      <workItem from="1683180501965" duration="12681000" />
+      <workItem from="1683462007117" duration="7205000" />
+      <workItem from="1683481207009" duration="8000" />
+      <workItem from="1683481271655" duration="70000" />
+      <workItem from="1683495364196" duration="1583000" />
+      <workItem from="1683537240054" duration="5273000" />
+      <workItem from="1683655292908" duration="1038000" />
+      <workItem from="1683738851968" duration="10596000" />
+      <workItem from="1683785147190" duration="3687000" />
+      <workItem from="1683871797280" duration="33000" />
+      <workItem from="1683900937966" duration="1674000" />
+      <workItem from="1684080810844" duration="1234000" />
+      <workItem from="1684169742455" duration="646000" />
+      <workItem from="1684179559225" duration="2691000" />
+      <workItem from="1684245765790" duration="14000" />
+      <workItem from="1684343012516" duration="7547000" />
+      <workItem from="1684426882210" duration="1394000" />
+      <workItem from="1684509355686" duration="527000" />
+      <workItem from="1684514722017" duration="3473000" />
+      <workItem from="1684741537882" duration="2068000" />
+      <workItem from="1684777356957" duration="4092000" />
+      <workItem from="1684832701439" duration="1699000" />
+      <workItem from="1684834412145" duration="13000" />
+      <workItem from="1684837424590" duration="9911000" />
+      <workItem from="1684946948108" duration="173000" />
+      <workItem from="1684957185918" duration="10000" />
+      <workItem from="1685036726440" duration="2348000" />
+      <workItem from="1685298997146" duration="1247000" />
+      <workItem from="1685345330187" duration="3281000" />
+      <workItem from="1685895502922" duration="3033000" />
+      <workItem from="1685905773236" duration="12000" />
+      <workItem from="1685944844527" duration="4334000" />
+      <workItem from="1685953376279" duration="1309000" />
+      <workItem from="1685984710210" duration="663000" />
+      <workItem from="1686204976791" duration="1972000" />
+      <workItem from="1686641065262" duration="1532000" />
+      <workItem from="1686813249536" duration="6000" />
+      <workItem from="1687277758855" duration="1084000" />
+      <workItem from="1687375048494" duration="3464000" />
+      <workItem from="1687418735748" duration="3554000" />
+      <workItem from="1687443559264" duration="2149000" />
+      <workItem from="1687469471490" duration="557000" />
+      <workItem from="1687534035830" duration="3417000" />
+      <workItem from="1688057973772" duration="202000" />
+      <workItem from="1688137001598" duration="1500000" />
+      <workItem from="1688324369300" duration="1205000" />
+      <workItem from="1688366061535" duration="1400000" />
+      <workItem from="1688455244085" duration="1650000" />
+      <workItem from="1688573235541" duration="20000" />
+      <workItem from="1688580738171" duration="2492000" />
+      <workItem from="1689013852020" duration="2262000" />
+      <workItem from="1689664711745" duration="966000" />
+      <workItem from="1689778231819" duration="58000" />
+      <workItem from="1689782560108" duration="727000" />
+      <workItem from="1689838445934" duration="51000" />
+      <workItem from="1689848757950" duration="3570000" />
+      <workItem from="1689889085125" duration="6000" />
+      <workItem from="1689953860795" duration="819000" />
+      <workItem from="1690139387903" duration="9000" />
+      <workItem from="1690181069506" duration="834000" />
+      <workItem from="1690210490395" duration="72000" />
+      <workItem from="1690799506030" duration="4571000" />
+      <workItem from="1690901482250" duration="4223000" />
+      <workItem from="1691011367569" duration="40000" />
+      <workItem from="1691145864310" duration="1596000" />
+      <workItem from="1691158862454" duration="112000" />
+      <workItem from="1691162032045" duration="625000" />
+      <workItem from="1691393939293" duration="673000" />
+      <workItem from="1691432102797" duration="2742000" />
+      <workItem from="1691653505258" duration="7000" />
+      <workItem from="1691679752810" duration="2556000" />
+      <workItem from="1692035458388" duration="12000" />
+      <workItem from="1692294809170" duration="3007000" />
+      <workItem from="1692347414499" duration="13000" />
+      <workItem from="1692352121582" duration="3944000" />
+      <workItem from="1692368478996" duration="7000" />
+      <workItem from="1692554123179" duration="630000" />
+      <workItem from="1692640605153" duration="8000" />
+      <workItem from="1692645028930" duration="2361000" />
+      <workItem from="1692694697366" duration="664000" />
+      <workItem from="1692720880416" duration="3791000" />
+      <workItem from="1692893600682" duration="5196000" />
+      <workItem from="1692952188152" duration="73000" />
+      <workItem from="1693155834673" duration="657000" />
+      <workItem from="1693158150944" duration="645000" />
+      <workItem from="1693245397753" duration="3757000" />
+      <workItem from="1693289874574" duration="1896000" />
+      <workItem from="1693319342589" duration="1707000" />
+      <workItem from="1693466197490" duration="5905000" />
+      <workItem from="1693493590199" duration="2883000" />
+      <workItem from="1693570762889" duration="610000" />
+      <workItem from="1693766410802" duration="2468000" />
+      <workItem from="1693818790328" duration="3293000" />
+      <workItem from="1693850404545" duration="3820000" />
+      <workItem from="1693894777066" duration="2371000" />
+      <workItem from="1693928249302" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676532315476</created>
@@ -894,7 +1057,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676532315476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some commit">
+      <created>1680543692200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680543692200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -902,7 +1072,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="some commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="some commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -913,9 +1084,24 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/learn/java/core/RecursionLesson.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/learn/java/t1_core/RecursionLesson.java</url>
           <line>13</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-18/lib/src.zip!/java.base/java/util/HashMap.java</url>
+          <line>444</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-18/lib/src.zip!/java.base/java/util/HashMap.java</url>
+          <line>461</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-18/lib/src.zip!/java.base/java/util/HashMap.java</url>
+          <line>377</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
